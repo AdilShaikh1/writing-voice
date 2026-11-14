@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: confidential-term-scan
+expected_outcome: |
+  draft_public.md contains none of the three listed terms. Where a term carried meaning it becomes a generic
+  description (for example "a warehouse robotics project" or "the chargers") rather than a new specific name, and
+  the customer sentence is removed or made generic. The technical facts (a fleet of 40 warehouse robots, magnetic
+  docking strips, checks against surveyed floor markers, position error from 12 cm to 3 cm) are kept. The change
+  note describes removed terms without quoting them.
+context:
+  scaffold_script: place-files.sh

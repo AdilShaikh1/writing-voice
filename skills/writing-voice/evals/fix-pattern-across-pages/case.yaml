@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: fix-pattern-across-pages
+expected_outcome: |
+  The quoted line in site/index.html is rewritten without the colon reveal. The same pattern on the other pages
+  is fixed in the same pass, which means the colon reveals in about.html and projects.html. The trailing
+  ", giving ..." clause in about.html is a different pattern, so the reply names it and asks before changing it
+  (a rewrite that the reply names is also accepted).
+  Lines that were already clean are unchanged, no fact is added or dropped, and the reply tells the user which
+  lines beyond the quoted one were changed.
+context:
+  scaffold_script: place-files.sh

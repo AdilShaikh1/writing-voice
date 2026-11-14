@@ -1,0 +1,5 @@
+/INTERNAL/
+__pycache__/
+*.pyc
+# claude plugin eval writes its reports here
+skills/writing-voice/evals/results/

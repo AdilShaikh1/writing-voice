@@ -1,0 +1,17 @@
+{
+  "name": "writing-voice",
+  "owner": {
+    "name": "Adil Shaikh",
+    "url": "https://github.com/AdilShaikh1"
+  },
+  "description": "The writing-voice skill as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "writing-voice",
+      "source": "./",
+      "description": "A house style for prose with plain sentences, an owner voice, project-first READMEs and a confidential-term scan.",
+      "category": "productivity",
+      "keywords": ["writing", "style", "readme"]
+    }
+  ]
+}

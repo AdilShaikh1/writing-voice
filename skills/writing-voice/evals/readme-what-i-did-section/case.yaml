@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: readme-what-i-did-section
+expected_outcome: |
+  README_section_fixed.md is a section for people who build on the repo such as "Features". The project or its parts are the
+  subject of each sentence, with no first person and no self-description of the author. The colon reveal, the
+  trailing "-ing" clauses and the banned words are gone, and every technical fact is kept with nothing added.
+context:
+  scaffold_script: place-files.sh

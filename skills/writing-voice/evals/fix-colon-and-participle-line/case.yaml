@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: fix-colon-and-participle-line
+expected_outcome: |
+  answer.md holds the rewritten line as one to three plain sentences. The colon reveal and the trailing
+  ", running ..." clause are gone, the author stays the subject with an owner verb (designed, shipped),
+  and every fact is kept (lattice search, learned cost map, ROS 2, 20 Hz) with nothing added.

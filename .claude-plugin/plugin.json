@@ -1,0 +1,13 @@
+{
+  "name": "writing-voice",
+  "version": "0.1.0",
+  "description": "A house style for prose with plain subject-plus-verb sentences, owner verbs about the author, project-first READMEs and a confidential-term scan.",
+  "author": {
+    "name": "Adil Shaikh",
+    "url": "https://github.com/AdilShaikh1"
+  },
+  "repository": "https://github.com/AdilShaikh1/writing-voice",
+  "license": "MIT",
+  "keywords": ["writing", "style", "readme", "copy", "confidentiality"],
+  "skills": ["./skills/writing-voice"]
+}
