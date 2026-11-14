@@ -2,7 +2,7 @@
 
 <p align="center"><strong>A house style for prose that reads once and lands.</strong></p>
 
-<p align="center">An agent skill for Claude Code, Codex and other coding agents that writes and edits site copy, case studies and READMEs<br>in plain subject-plus-verb sentences, with an owner voice for the author and a project-first voice for open-source docs.</p>
+<p align="center">An agent skill for Claude Code, Codex and other coding agents.<br>It writes site copy, case studies and READMEs in plain subject-plus-verb sentences, with an owner voice for the author and a project-first voice for open-source docs.</p>
 
 <p align="center"><a href="#install">Install</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#what-the-check-reports">What the check reports</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#common-questions">Common questions</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#license">License</a></p>
 
