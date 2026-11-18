@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 # claude plugin eval writes its reports here
 skills/writing-voice/evals/results/
+/.superpowers/
